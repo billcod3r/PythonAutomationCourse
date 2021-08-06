@@ -1,0 +1,65 @@
+Syntax: The rules for how a sentence is constructed
+
+Semantics: The actual meaning of statements
+
+In Python
+
+Syntax: The rules for how each instruction is written
+Semantics: The effects the instructions have
+
+Script vs program
+
+Script: Program with a short development cycle (Created and deployed rapidly)
+
+Automation: The process of replacing a manual step with one that happens automatically
+
+Variables: 
+
+Containers for data.
+When variable is declared your computer reserves a chunk of its own memory to store that value.
+
+Functions
+
+Start a function with the def keyword
+Followed by the name of the function
+Then we have parameters also called arguments
+
+Returning Function values
+
+Work that functions do can produce new results
+We use the return keyword to tell python that this is the return value of a function
+
+Comparison operators
+
+	a == b: a is equal to b
+	a != b: a is different than b
+	a < b: a is smaller than b
+	a <= b: a is smaller or equal to b
+	a > b: a is bigger than b
+	a >= b: a is bigger or equal to b
+
+
+Logical Operators
+
+	a and b: True if both a and b are True. False otherwise.
+	a or b: True if either a or b or both are True. False if both are False
+	not a: True if a is False, False if a is True
+
+Branching Block
+
+if condition1:
+	if-block
+elif condition2:
+	if-block
+else:
+	else-block
+
+
+Anatomy of a While Loop
+
+Code will keep executing depending on the value of a condition
+
+Absolute Path: A full path to the resource in the file system
+
+Relative Path: Use only a portion of a path to show where the resource is located in relation to the current
+working directory.
